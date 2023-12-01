@@ -1,0 +1,563 @@
+"wiek"	"naukaLata"	"edukacja"	"plec"	"wiaraZyciePo"	"szczescie"	"jakieZycie"	"fortunaEndPraca"	"gazetyCzesto"	"ogladaTVGodz"	"korzystaWWW"	"zodiak"	"dochod"	"ileGodzPracuje"
+43	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Skorpion"	"$110000 OR OVER"	11
+47	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	1	"Nie"	"Ryby"	"$90000 - $109999"	10
+46	14	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Byk"	"$60000 TO 74999"	11
+37	15	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Raz w tygodniu"	3	"Nie"	"Ryby"	"$40000 TO 49999"	8
+23	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Kilka razy w tygodniu"	6	"Nie"	"Lew"	"$35000 TO 39999"	5
+33	16	"Licencjat"	"Kobieta"	"Tak"	"Nieszczesliwy"	NA	NA	"Codziennie"	1	"Tak"	"Panna"	"$90000 - $109999"	11
+57	16	"Licencjat"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Tak"	"Panna"	"$40000 TO 49999"	9
+63	17	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Panna"	"$75000 TO $89999"	5
+77	8	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Nigdy"	1	"Tak"	"Koziorozec"	"$12500 TO 14999"	1
+21	10	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	3	"Tak"	"Wodnik"	"$40000 TO 49999"	7
+20	9	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Nigdy"	1	"Tak"	"Skorpion"	"$35000 TO 39999"	10
+71	14	"Policealna"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Koziorozec"	"$40000 TO 49999"	3
+69	15	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Ryby"	"$60000 TO 74999"	2
+53	13	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Nudne"	"Tak"	NA	NA	"Nie"	"Wodnik"	"$17500 TO 19999"	6
+45	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	2	"Tak"	"Lew"	"$60000 TO 74999"	8
+62	8	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Ryby"	"$12500 TO 14999"	1
+77	13	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Kilka razy w tygodniu"	2	"Nie"	"Baran"	"$40000 TO 49999"	1
+28	15	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	1	"Nie"	"Bliznieta"	"$75000 TO $89999"	8
+33	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Strzelec"	"$60000 TO 74999"	11
+50	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Ryby"	"$110000 OR OVER"	12
+21	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	1	"Tak"	"Strzelec"	"$50000 TO 59999"	8
+21	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Koziorozec"	NA	8
+68	14	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Nigdy"	5	"Nie"	"Panna"	"UNDER $1 000"	1
+27	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Skorpion"	NA	5
+30	11	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Nudne"	"Tak"	NA	NA	"Nie"	"Ryby"	"$30000 TO 34999"	4
+55	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	4	"Nie"	"Skorpion"	"$12500 TO 14999"	7
+78	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Ekscytujace"	NA	"Codziennie"	6	"Nie"	"Waga"	NA	5
+19	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Kilka razy w tygodniu"	5	"Tak"	"Lew"	"UNDER $1 000"	8
+64	10	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	NA	"Kilka razy w tygodniu"	6	"Nie"	"Wodnik"	"$15000 TO 17499"	5
+57	15	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	1	"Tak"	"Lew"	"$90000 - $109999"	9
+50	18	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	0	"Tak"	"Ryby"	"$60000 TO 74999"	13
+43	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Codziennie"	3	"Tak"	"Panna"	"$90000 - $109999"	6
+71	15	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Baran"	"$12500 TO 14999"	1
+74	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	NA	NA	"Codziennie"	2	"Nie"	"Bliznieta"	"$30000 TO 34999"	3
+63	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Nie"	"Byk"	"$75000 TO $89999"	11
+30	14	"Policealna"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	1	"Tak"	"Waga"	"$75000 TO $89999"	12
+45	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	4	"Tak"	NA	"$40000 TO 49999"	7
+22	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Kilka razy w tygodniu"	8	"Tak"	"Panna"	"$25000 TO 29999"	6
+24	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Mniej niz raz w tygodniu"	3	"Nie"	"Skorpion"	"$12500 TO 14999"	8
+57	14	"Policealna"	"Kobieta"	"Tak"	"Nieszczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	6	"Tak"	"Ryby"	"$40000 TO 49999"	4
+35	10	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Wodnik"	"$10000 TO 12499"	11
+37	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Tak"	"Koziorozec"	"$110000 OR OVER"	8
+40	12	"Szkola zawodowa"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Baran"	"$30000 TO 34999"	9
+57	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	4	"Nie"	"Strzelec"	"$110000 OR OVER"	7
+89	2	"Szkola zawodowa"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Wodnik"	"$25000 TO 29999"	0
+25	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	1	"Nie"	"Baran"	"$50000 TO 59999"	12
+32	13	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Koziorozec"	"$110000 OR OVER"	5
+23	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	6	"Tak"	"Waga"	"$50000 TO 59999"	5
+24	11	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	3	"Tak"	"Bliznieta"	"$50000 TO 59999"	7
+54	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	1	"Tak"	"Panna"	"$12500 TO 14999"	13
+28	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Rak"	"$50000 TO 59999"	3
+42	14	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Codziennie"	1	"Nie"	"Strzelec"	"$110000 OR OVER"	10
+62	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Lew"	"$110000 OR OVER"	4
+40	19	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Tak"	"Rak"	"$60000 TO 74999"	8
+76	15	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Codziennie"	3	"Nie"	"Baran"	"$22500 TO 24999"	1
+63	18	"Magisterium"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Wodnik"	"$110000 OR OVER"	9
+70	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Codziennie"	3	"Nie"	"Baran"	"$35000 TO 39999"	2
+66	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Strzelec"	"$40000 TO 49999"	2
+44	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	4	"Nie"	"Koziorozec"	"$35000 TO 39999"	7
+72	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Koziorozec"	"$30000 TO 34999"	3
+68	18	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Wodnik"	"$110000 OR OVER"	2
+51	17	"Magisterium"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	NA	NA	"Codziennie"	1	"Tak"	"Panna"	"$110000 OR OVER"	11
+30	18	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	3	"Tak"	"Byk"	"$50000 TO 59999"	8
+26	15	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	1	"Tak"	"Baran"	"$90000 - $109999"	11
+56	16	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	2	"Tak"	"Wodnik"	"UNDER $1 000"	9
+35	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Nigdy"	3	"Nie"	"Panna"	"$50000 TO 59999"	7
+33	16	"Licencjat"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Panna"	"$110000 OR OVER"	10
+65	19	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Codziennie"	1	"Nie"	"Ryby"	"$110000 OR OVER"	11
+30	17	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Koziorozec"	"$25000 TO 29999"	2
+40	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Waga"	"$110000 OR OVER"	8
+44	17	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Rak"	"$110000 OR OVER"	5
+75	17	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Raz w tygodniu"	2	"Tak"	"Strzelec"	"$40000 TO 49999"	3
+87	18	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Panna"	"$50000 TO 59999"	0
+57	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	3	"Tak"	"Ryby"	"$25000 TO 29999"	6
+66	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	3	"Tak"	"Strzelec"	"$30000 TO 34999"	2
+32	16	"Magisterium"	"Kobieta"	"Tak"	"Nieszczesliwy"	NA	NA	"Nigdy"	1	"Tak"	"Byk"	"$40000 TO 49999"	11
+46	15	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Ryby"	"$50000 TO 59999"	10
+32	12	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	NA	NA	"Nigdy"	0	"Tak"	"Wodnik"	NA	12
+84	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	4	"Tak"	"Koziorozec"	"$25000 TO 29999"	0
+43	13	"Szkola zawodowa"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Nigdy"	5	"Nie"	"Panna"	"$20000 TO 22499"	7
+26	13	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Nie"	"Rak"	"$60000 TO 74999"	9
+27	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Nudne"	"Nie"	NA	NA	"Tak"	"Lew"	"$75000 TO $89999"	9
+32	12	"Szkola zawodowa"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Nudne"	"Tak"	NA	NA	"Tak"	"Bliznieta"	"$40000 TO 49999"	5
+32	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Byk"	"$60000 TO 74999"	10
+30	15	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Kilka razy w tygodniu"	3	"Tak"	"Strzelec"	"$35000 TO 39999"	7
+40	16	"Licencjat"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	2	"Tak"	"Koziorozec"	"$50000 TO 59999"	12
+67	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Codziennie"	2	"Nie"	"Byk"	"$60000 TO 74999"	3
+45	19	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	1	"Tak"	"Waga"	"$60000 TO 74999"	9
+60	19	"Magisterium"	"Kobieta"	"Nie"	"Nieszczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Baran"	"$40000 TO 49999"	7
+41	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Panna"	"$35000 TO 39999"	7
+47	NA	"Szkola zawodowa"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	NA	"Nie"	"Kilka razy w tygodniu"	2	"Nie"	"Wodnik"	NA	12
+37	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Tak"	"Rak"	"$110000 OR OVER"	12
+44	15	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Codziennie"	1	"Nie"	"Byk"	NA	10
+73	12	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Waga"	"$35000 TO 39999"	1
+33	16	"Licencjat"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	"Nie"	"Codziennie"	3	"Nie"	"Baran"	NA	6
+72	14	"Policealna"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Nie"	"Ryby"	NA	2
+64	18	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Raz w tygodniu"	8	"Tak"	"Strzelec"	"$15000 TO 17499"	4
+25	9	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	"Codziennie"	3	"Nie"	"Ryby"	NA	6
+49	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	3	"Nie"	"Waga"	NA	6
+54	18	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Strzelec"	"$110000 OR OVER"	13
+42	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Nie"	"Strzelec"	"$40000 TO 49999"	11
+31	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	2	"Nie"	"Panna"	"$25000 TO 29999"	8
+37	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Ryby"	"$1 000 TO 2 999"	10
+55	15	"Policealna"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Ekscytujace"	"Nie"	"Mniej niz raz w tygodniu"	12	"Tak"	"Panna"	"$60000 TO 74999"	1
+51	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	5	"Nie"	"Wodnik"	"$3 000 TO 3 999"	6
+36	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Lew"	"$90000 - $109999"	9
+43	20	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	1	"Tak"	"Rak"	"$75000 TO $89999"	9
+32	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Skorpion"	"$60000 TO 74999"	5
+37	15	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Tak"	"Skorpion"	"$110000 OR OVER"	11
+36	14	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Strzelec"	"$90000 - $109999"	11
+59	15	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Panna"	"$110000 OR OVER"	1
+37	19	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Baran"	"$110000 OR OVER"	9
+32	11	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Byk"	"$50000 TO 59999"	9
+33	16	"Licencjat"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Skorpion"	"$50000 TO 59999"	5
+64	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Kilka razy w tygodniu"	2	"Nie"	"Strzelec"	"$22500 TO 24999"	10
+23	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	NA	NA	"Tak"	"Panna"	NA	7
+35	8	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	"Nie"	NA	NA	"Nie"	"Strzelec"	"$12500 TO 14999"	9
+30	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Kilka razy w tygodniu"	5	"Nie"	"Strzelec"	"$17500 TO 19999"	7
+33	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	NA	NA	"Codziennie"	2	"Nie"	"Bliznieta"	"$15000 TO 17499"	11
+67	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Rak"	"$10000 TO 12499"	1
+43	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Kilka razy w tygodniu"	4	"Tak"	"Waga"	"$50000 TO 59999"	8
+59	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	1	"Tak"	"Skorpion"	NA	9
+56	18	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Strzelec"	"$90000 - $109999"	11
+61	7	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	12	"Nie"	"Lew"	"$20000 TO 22499"	0
+48	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Skorpion"	"$22500 TO 24999"	2
+37	15	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	0	"Tak"	"Waga"	"$60000 TO 74999"	13
+72	8	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Kilka razy w tygodniu"	3	"Nie"	"Ryby"	"$22500 TO 24999"	1
+20	10	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	1	"Nie"	"Bliznieta"	NA	11
+23	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Kilka razy w tygodniu"	2	"Tak"	"Koziorozec"	"$15000 TO 17499"	13
+34	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Kilka razy w tygodniu"	3	"Tak"	"Waga"	"$40000 TO 49999"	7
+46	2	"Szkola zawodowa"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Skorpion"	"$17500 TO 19999"	0
+46	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Skorpion"	"$60000 TO 74999"	3
+76	20	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Codziennie"	3	"Nie"	"Panna"	"$40000 TO 49999"	1
+24	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Bliznieta"	"$30000 TO 34999"	8
+80	8	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	6	"Nie"	"Baran"	"$8 000 TO 9 999"	0
+45	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Wodnik"	"$90000 - $109999"	4
+41	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	3	"Nie"	"Bliznieta"	"$10000 TO 12499"	6
+35	14	"Szkola zawodowa"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	1	"Tak"	"Panna"	NA	13
+67	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Nie"	"Bliznieta"	"$8 000 TO 9 999"	2
+78	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	4	"Tak"	"Baran"	"$25000 TO 29999"	6
+48	20	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	0	"Tak"	"Baran"	"$110000 OR OVER"	13
+51	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Strzelec"	"$35000 TO 39999"	6
+39	9	"Szkola srednia"	"Kobieta"	"Nie"	"Nieszczesliwy"	"Nudne"	NA	NA	NA	"Tak"	"Lew"	"$8 000 TO 9 999"	7
+25	16	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Raz w tygodniu"	3	"Tak"	"Ryby"	"$20000 TO 22499"	8
+46	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Ryby"	"$25000 TO 29999"	7
+30	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Bliznieta"	"$12500 TO 14999"	6
+43	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	0	"Tak"	"Skorpion"	"$40000 TO 49999"	8
+42	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	1	"Tak"	"Ryby"	"$60000 TO 74999"	11
+35	16	"Licencjat"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Koziorozec"	"$90000 - $109999"	6
+55	16	"Licencjat"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	3	"Tak"	"Rak"	"$110000 OR OVER"	7
+25	14	"Policealna"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Panna"	NA	0
+86	11	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Koziorozec"	"$35000 TO 39999"	0
+39	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Nudne"	"Tak"	"Codziennie"	4	"Tak"	"Bliznieta"	"$35000 TO 39999"	7
+36	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Panna"	"$40000 TO 49999"	6
+53	16	"Licencjat"	"Kobieta"	"Nie"	"Nieszczesliwy"	"Nudne"	"Nie"	"Raz w tygodniu"	0	"Nie"	"Waga"	"$7 000 TO 7 999"	9
+70	10	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Bliznieta"	"$20000 TO 22499"	1
+38	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Codziennie"	1	"Tak"	"Rak"	"$75000 TO $89999"	10
+80	16	"Licencjat"	"Kobieta"	"Nie"	"Nieszczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Baran"	NA	0
+46	9	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Baran"	"$50000 TO 59999"	0
+71	12	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Strzelec"	"$22500 TO 24999"	3
+64	14	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Kilka razy w tygodniu"	4	"Nie"	"Bliznieta"	"$22500 TO 24999"	8
+76	8	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	1	"Nie"	"Wodnik"	"$8 000 TO 9 999"	2
+46	18	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Wodnik"	"$30000 TO 34999"	6
+50	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Nie"	"Panna"	"$10000 TO 12499"	12
+70	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Baran"	NA	3
+46	9	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Wodnik"	"$10000 TO 12499"	0
+33	9	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Bliznieta"	"$30000 TO 34999"	5
+59	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Waga"	"$40000 TO 49999"	4
+21	14	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Tak"	"Bliznieta"	NA	12
+38	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Byk"	"$30000 TO 34999"	1
+27	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	"Kilka razy w tygodniu"	2	"Tak"	"Panna"	"$22500 TO 24999"	10
+31	11	"Szkola zawodowa"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Baran"	"$30000 TO 34999"	2
+37	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Nigdy"	2	"Nie"	"Bliznieta"	"$30000 TO 34999"	11
+67	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Waga"	"$110000 OR OVER"	2
+30	11	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Nigdy"	3	"Nie"	"Panna"	"$30000 TO 34999"	7
+57	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Nigdy"	5	"Nie"	"Wodnik"	"$10000 TO 12499"	7
+33	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	4	"Nie"	"Panna"	"$22500 TO 24999"	8
+41	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Raz w tygodniu"	3	"Tak"	"Bliznieta"	"$50000 TO 59999"	7
+41	15	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Rak"	NA	4
+51	15	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Kilka razy w tygodniu"	1	"Tak"	"Bliznieta"	"$60000 TO 74999"	10
+69	8	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Tak"	"Byk"	"$60000 TO 74999"	3
+34	8	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Nie"	"Ryby"	"$5 000 TO 5 999"	6
+46	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Mniej niz raz w tygodniu"	1	"Tak"	"Strzelec"	"$20000 TO 22499"	10
+28	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Baran"	"$50000 TO 59999"	0
+52	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Raz w tygodniu"	2	"Nie"	"Rak"	"$50000 TO 59999"	12
+48	20	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	1	"Tak"	"Skorpion"	"$110000 OR OVER"	12
+19	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Kilka razy w tygodniu"	3	"Tak"	"Panna"	"$30000 TO 34999"	6
+52	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Rutynowe"	"Tak"	"Raz w tygodniu"	3	"Tak"	"Lew"	"$10000 TO 12499"	7
+49	12	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	4	"Nie"	"Rak"	"$30000 TO 34999"	7
+74	6	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Strzelec"	"$12500 TO 14999"	2
+26	12	"Szkola srednia"	"Kobieta"	"Nie"	"Nieszczesliwy"	"Nudne"	"Nie"	"Raz w tygodniu"	2	"Tak"	"Waga"	"$12500 TO 14999"	13
+28	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Bliznieta"	"$50000 TO 59999"	4
+22	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Raz w tygodniu"	3	"Nie"	"Byk"	"$50000 TO 59999"	8
+31	15	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Kilka razy w tygodniu"	2	"Tak"	"Lew"	"$35000 TO 39999"	12
+43	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Panna"	"$40000 TO 49999"	8
+47	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Nudne"	"Nie"	"Kilka razy w tygodniu"	5	"Tak"	"Ryby"	"$30000 TO 34999"	8
+36	8	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Byk"	"$30000 TO 34999"	4
+26	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Nigdy"	1	"Nie"	"Byk"	"$60000 TO 74999"	10
+25	14	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	6	"Tak"	"Rak"	"$12500 TO 14999"	4
+81	5	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Nigdy"	3	"Nie"	"Wodnik"	NA	0
+62	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Baran"	"$60000 TO 74999"	1
+21	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	20	"Tak"	"Koziorozec"	"$20000 TO 22499"	0
+75	18	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Tak"	"Waga"	"$50000 TO 59999"	3
+48	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	1	"Tak"	"Bliznieta"	"$90000 - $109999"	10
+31	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Mniej niz raz w tygodniu"	1	"Tak"	"Bliznieta"	"$60000 TO 74999"	9
+22	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Strzelec"	"$12500 TO 14999"	3
+26	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Nudne"	"Nie"	"Kilka razy w tygodniu"	1	"Tak"	"Bliznieta"	"$25000 TO 29999"	12
+23	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Byk"	"$40000 TO 49999"	11
+68	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Codziennie"	4	"Nie"	"Wodnik"	"$20000 TO 22499"	3
+48	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	1	"Tak"	"Skorpion"	"$110000 OR OVER"	8
+20	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Kilka razy w tygodniu"	2	"Tak"	"Strzelec"	"$90000 - $109999"	10
+40	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	2	"Nie"	"Koziorozec"	"$50000 TO 59999"	12
+27	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Waga"	"$30000 TO 34999"	1
+30	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Byk"	"$22500 TO 24999"	4
+24	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	1	"Tak"	"Ryby"	"$35000 TO 39999"	10
+50	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	4	"Tak"	"Wodnik"	NA	6
+41	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Wodnik"	"$50000 TO 59999"	0
+39	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Baran"	"$17500 TO 19999"	0
+51	10	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Lew"	"$8 000 TO 9 999"	11
+69	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Nie"	"Strzelec"	"$110000 OR OVER"	2
+45	14	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Waga"	"$110000 OR OVER"	3
+69	9	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	4	"Nie"	"Waga"	"$25000 TO 29999"	3
+53	19	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Rak"	"$110000 OR OVER"	4
+51	15	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	4	"Tak"	"Strzelec"	"$40000 TO 49999"	7
+25	11	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Raz w tygodniu"	4	"Nie"	"Skorpion"	"$30000 TO 34999"	7
+25	11	"Szkola zawodowa"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	"Raz w tygodniu"	4	"Nie"	"Ryby"	"$50000 TO 59999"	6
+36	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	5	"Nie"	"Panna"	"$10000 TO 12499"	8
+65	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Lew"	"$60000 TO 74999"	3
+58	20	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Panna"	"$50000 TO 59999"	4
+29	14	"Policealna"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	1	"Tak"	"Koziorozec"	"$50000 TO 59999"	8
+66	18	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	7	"Tak"	"Rak"	NA	3
+73	16	"Licencjat"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Koziorozec"	NA	2
+78	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Tak"	"Ryby"	"$40000 TO 49999"	6
+59	15	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Nigdy"	5	"Nie"	"Koziorozec"	"$10000 TO 12499"	6
+19	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Kilka razy w tygodniu"	1	"Tak"	"Skorpion"	"$22500 TO 24999"	13
+47	18	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Koziorozec"	"$90000 - $109999"	0
+37	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	NA	"Nigdy"	8	"Nie"	"Strzelec"	"$22500 TO 24999"	6
+56	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Nigdy"	5	"Nie"	"Baran"	"$20000 TO 22499"	8
+37	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	6	"Nie"	"Strzelec"	"$4 000 TO 4 999"	5
+24	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	2	"Tak"	"Lew"	"$25000 TO 29999"	11
+33	10	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Nigdy"	24	"Nie"	"Waga"	"$12500 TO 14999"	0
+50	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Waga"	"$75000 TO $89999"	3
+67	19	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Codziennie"	5	"Nie"	"Lew"	"$30000 TO 34999"	1
+33	9	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Raz w tygodniu"	3	"Tak"	"Rak"	"$60000 TO 74999"	7
+56	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Byk"	"$25000 TO 29999"	9
+87	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Skorpion"	"$22500 TO 24999"	0
+36	15	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	11	"Tak"	"Lew"	"$110000 OR OVER"	2
+52	12	"Szkola srednia"	"Kobieta"	"Nie"	"Nieszczesliwy"	NA	NA	"Codziennie"	11	"Tak"	"Panna"	"$7 000 TO 7 999"	3
+24	12	"Szkola srednia"	"Kobieta"	"Nie"	"Nieszczesliwy"	NA	NA	"Raz w tygodniu"	2	"Tak"	"Baran"	"$90000 - $109999"	9
+33	14	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Bliznieta"	"$15000 TO 17499"	11
+37	13	"Policealna"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	1	"Tak"	"Strzelec"	"$75000 TO $89999"	12
+21	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Codziennie"	3	"Tak"	"Panna"	"$110000 OR OVER"	7
+34	14	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Mniej niz raz w tygodniu"	2	"Tak"	"Rak"	"$50000 TO 59999"	8
+50	2	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	3	"Tak"	"Baran"	"$50000 TO 59999"	6
+36	18	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	1	"Tak"	"Skorpion"	"$90000 - $109999"	9
+38	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Kilka razy w tygodniu"	4	"Tak"	"Waga"	"$60000 TO 74999"	7
+47	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Codziennie"	3	"Tak"	"Panna"	"$90000 - $109999"	6
+42	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Ryby"	NA	9
+34	15	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Tak"	"Ryby"	NA	13
+59	10	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	5	"Tak"	"Byk"	"$30000 TO 34999"	8
+26	15	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Ryby"	"$40000 TO 49999"	10
+31	18	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Kilka razy w tygodniu"	3	"Tak"	"Bliznieta"	"$75000 TO $89999"	7
+52	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	0	"Tak"	"Lew"	"$5 000 TO 5 999"	11
+31	9	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	3	"Nie"	"Wodnik"	"$15000 TO 17499"	8
+50	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Byk"	"$60000 TO 74999"	10
+27	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Kilka razy w tygodniu"	3	"Nie"	"Skorpion"	"$25000 TO 29999"	6
+25	17	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Codziennie"	2	"Tak"	"Bliznieta"	"$110000 OR OVER"	10
+23	11	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Wodnik"	"$35000 TO 39999"	11
+39	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	4	"Nie"	"Wodnik"	"$20000 TO 22499"	8
+46	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Byk"	"$35000 TO 39999"	11
+67	11	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Wodnik"	"$90000 - $109999"	1
+23	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Byk"	"$50000 TO 59999"	8
+63	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Tak"	"Ryby"	"$75000 TO $89999"	11
+47	10	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	"Kilka razy w tygodniu"	3	"Nie"	"Ryby"	"$75000 TO $89999"	8
+25	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Nudne"	"Nie"	"Raz w tygodniu"	1	"Tak"	"Bliznieta"	"$75000 TO $89999"	13
+48	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	5	"Nie"	"Lew"	"$35000 TO 39999"	8
+52	17	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Skorpion"	"$20000 TO 22499"	8
+52	8	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Baran"	"$5 000 TO 5 999"	9
+69	19	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Kilka razy w tygodniu"	1	"Nie"	"Lew"	"$50000 TO 59999"	1
+61	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Rak"	"$40000 TO 49999"	5
+48	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	3	"Nie"	"Wodnik"	"$8 000 TO 9 999"	8
+52	7	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Baran"	"$8 000 TO 9 999"	6
+25	12	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Nigdy"	2	"Tak"	"Lew"	"$15000 TO 17499"	9
+28	20	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Tak"	"Wodnik"	"$110000 OR OVER"	12
+52	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Panna"	"$110000 OR OVER"	3
+40	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Nigdy"	2	"Tak"	"Strzelec"	"$40000 TO 49999"	12
+55	14	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Waga"	"$17500 TO 19999"	0
+72	20	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Strzelec"	"$75000 TO $89999"	3
+41	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Codziennie"	2	"Tak"	"Waga"	"$50000 TO 59999"	13
+80	14	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	NA	NA	"Codziennie"	4	"Nie"	"Koziorozec"	NA	0
+49	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	5	"Tak"	"Bliznieta"	"$75000 TO $89999"	7
+43	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	3	"Tak"	"Rak"	"$40000 TO 49999"	6
+23	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Nudne"	NA	"Raz w tygodniu"	5	"Nie"	"Waga"	NA	6
+21	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Bliznieta"	"$30000 TO 34999"	11
+42	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	3	"Tak"	"Panna"	"$17500 TO 19999"	7
+35	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Skorpion"	"$40000 TO 49999"	11
+56	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Mniej niz raz w tygodniu"	1	"Nie"	"Strzelec"	"$90000 - $109999"	11
+25	14	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	2	"Tak"	"Koziorozec"	"$60000 TO 74999"	12
+32	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	5	"Nie"	"Rak"	"$35000 TO 39999"	6
+39	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	NA	NA	"Tak"	"Koziorozec"	"$30000 TO 34999"	11
+24	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	NA	"Tak"	NA	NA	"Nie"	"Waga"	"$30000 TO 34999"	9
+25	19	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	0	"Tak"	"Bliznieta"	NA	9
+73	19	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Tak"	"Skorpion"	"$110000 OR OVER"	1
+27	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Baran"	"$50000 TO 59999"	12
+47	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Byk"	"$15000 TO 17499"	10
+29	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Strzelec"	"$35000 TO 39999"	8
+21	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Ryby"	"$25000 TO 29999"	4
+72	6	"Szkola zawodowa"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Rutynowe"	NA	"Raz w tygodniu"	8	"Nie"	"Rak"	NA	3
+61	19	"Magisterium"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Bliznieta"	NA	9
+34	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	4	"Tak"	"Lew"	"$50000 TO 59999"	7
+79	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	"Nie"	"Codziennie"	2	"Nie"	"Panna"	"$30000 TO 34999"	0
+57	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	"Raz w tygodniu"	2	"Nie"	"Rak"	"$75000 TO $89999"	12
+48	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	0	"Tak"	"Rak"	"$75000 TO $89999"	13
+52	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Waga"	"$75000 TO $89999"	6
+20	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Kilka razy w tygodniu"	4	"Tak"	"Baran"	"$15000 TO 17499"	8
+41	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Rutynowe"	"Nie"	"Nigdy"	2	"Tak"	"Wodnik"	"$40000 TO 49999"	8
+63	10	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Panna"	NA	0
+27	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	NA	"Codziennie"	10	"Tak"	"Rak"	"$40000 TO 49999"	2
+62	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Baran"	"$110000 OR OVER"	7
+41	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	3	"Nie"	NA	NA	6
+72	14	"Szkola srednia"	"Kobieta"	"Nie"	"Nieszczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Waga"	"$20000 TO 22499"	1
+55	16	"Licencjat"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Waga"	"$30000 TO 34999"	8
+34	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Lew"	"$110000 OR OVER"	8
+22	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Nigdy"	2	"Tak"	"Rak"	"$40000 TO 49999"	8
+32	15	"Policealna"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Skorpion"	"$60000 TO 74999"	7
+38	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	1	"Tak"	"Panna"	"$35000 TO 39999"	9
+56	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	NA	NA	"Codziennie"	3	"Nie"	"Lew"	"$12500 TO 14999"	7
+19	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Kilka razy w tygodniu"	2	"Tak"	"Byk"	"$8 000 TO 9 999"	9
+25	12	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	NA	NA	"Nigdy"	1	"Tak"	"Ryby"	"$75000 TO $89999"	8
+59	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Ryby"	"$75000 TO $89999"	2
+53	0	"Szkola zawodowa"	"Kobieta"	"Tak"	"Nieszczesliwy"	NA	"Nie"	"Kilka razy w tygodniu"	2	"Nie"	"Lew"	"$20000 TO 22499"	13
+46	14	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Kilka razy w tygodniu"	2	"Tak"	"Koziorozec"	"$90000 - $109999"	8
+81	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Raz w tygodniu"	16	"Nie"	"Rak"	"$8 000 TO 9 999"	0
+25	11	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Waga"	"$12500 TO 14999"	2
+64	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Tak"	"Wodnik"	"$110000 OR OVER"	13
+38	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Waga"	"$50000 TO 59999"	7
+71	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Codziennie"	5	"Tak"	"Baran"	"$50000 TO 59999"	2
+56	18	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	1	"Tak"	"Byk"	"$110000 OR OVER"	10
+25	8	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	4	"Tak"	"Baran"	NA	7
+34	17	"Policealna"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	3	"Tak"	"Bliznieta"	"$40000 TO 49999"	7
+45	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	1	"Tak"	NA	NA	10
+41	14	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	2	"Tak"	"Wodnik"	"$60000 TO 74999"	10
+45	17	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Rak"	"$110000 OR OVER"	5
+49	14	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Raz w tygodniu"	2	"Tak"	"Koziorozec"	"$50000 TO 59999"	10
+29	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Raz w tygodniu"	2	"Tak"	"Skorpion"	"$35000 TO 39999"	9
+65	16	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	4	"Nie"	"Koziorozec"	"$90000 - $109999"	7
+69	2	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	2	"Tak"	"Ryby"	"$50000 TO 59999"	1
+51	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	1	"Tak"	"Koziorozec"	"$40000 TO 49999"	12
+52	15	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	1	"Tak"	"Waga"	"$30000 TO 34999"	9
+29	18	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Tak"	"Skorpion"	"$90000 - $109999"	13
+47	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Nie"	"Skorpion"	"$15000 TO 17499"	0
+22	15	"Policealna"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Kilka razy w tygodniu"	4	"Tak"	"Wodnik"	"$1 000 TO 2 999"	7
+44	2	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	4	"Tak"	"Koziorozec"	"$40000 TO 49999"	7
+37	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Mniej niz raz w tygodniu"	0	"Tak"	"Waga"	"$30000 TO 34999"	13
+20	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Raz w tygodniu"	0	"Tak"	"Rak"	"$17500 TO 19999"	9
+22	13	"Szkola srednia"	"Kobieta"	"Nie"	"Nieszczesliwy"	"Rutynowe"	NA	NA	NA	"Tak"	"Waga"	"$1 000 TO 2 999"	2
+21	14	"Szkola srednia"	"Kobieta"	"Nie"	"Nieszczesliwy"	"Rutynowe"	NA	"Mniej niz raz w tygodniu"	0	"Tak"	"Byk"	"$110000 OR OVER"	12
+36	17	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Tak"	"Skorpion"	"$60000 TO 74999"	10
+27	19	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Tak"	"Rak"	"$17500 TO 19999"	13
+44	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Nie"	"Wodnik"	"$35000 TO 39999"	4
+66	10	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	8	"Nie"	"Wodnik"	"$12500 TO 14999"	2
+54	20	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Nigdy"	1	"Tak"	NA	"$75000 TO $89999"	8
+61	15	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Bliznieta"	"$60000 TO 74999"	2
+23	16	"Licencjat"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Rak"	"$5 000 TO 5 999"	9
+37	16	"Licencjat"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Codziennie"	2	"Tak"	"Baran"	"$110000 OR OVER"	9
+51	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	1	"Tak"	"Panna"	"$75000 TO $89999"	10
+46	20	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Waga"	"$75000 TO $89999"	5
+73	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	3	"Tak"	"Wodnik"	"$30000 TO 34999"	1
+50	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	"Nie"	NA	NA	"Tak"	"Rak"	"$90000 - $109999"	5
+33	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Lew"	"$50000 TO 59999"	7
+33	14	"Policealna"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Byk"	"$40000 TO 49999"	10
+56	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Nigdy"	2	"Nie"	"Bliznieta"	"$110000 OR OVER"	12
+76	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Lew"	NA	2
+42	19	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Kilka razy w tygodniu"	1	"Tak"	NA	"$110000 OR OVER"	12
+64	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Tak"	"Waga"	"$60000 TO 74999"	5
+60	16	"Licencjat"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Raz w tygodniu"	3	"Tak"	"Strzelec"	"$50000 TO 59999"	7
+52	15	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Nie"	"Bliznieta"	NA	11
+53	11	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Codziennie"	3	"Tak"	"Baran"	"$35000 TO 39999"	8
+32	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Skorpion"	"$22500 TO 24999"	3
+27	14	"Policealna"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Rutynowe"	"Nie"	"Kilka razy w tygodniu"	2	"Nie"	"Panna"	"$30000 TO 34999"	9
+36	12	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Wodnik"	"$10000 TO 12499"	11
+80	17	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Kilka razy w tygodniu"	3	"Tak"	"Panna"	"$10000 TO 12499"	0
+74	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Codziennie"	4	"Nie"	"Bliznieta"	"$75000 TO $89999"	3
+56	18	"Magisterium"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	0	"Tak"	"Bliznieta"	"$75000 TO $89999"	13
+25	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	1	"Tak"	"Bliznieta"	"$8 000 TO 9 999"	13
+56	19	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Waga"	"$90000 - $109999"	5
+32	20	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Tak"	"Ryby"	"$35000 TO 39999"	12
+55	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Tak"	"Ryby"	"$75000 TO $89999"	8
+35	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	1	"Nie"	"Ryby"	"$25000 TO 29999"	9
+18	12	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Ryby"	"$4 000 TO 4 999"	9
+52	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Skorpion"	"$17500 TO 19999"	8
+50	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Kilka razy w tygodniu"	3	"Nie"	"Byk"	NA	7
+39	10	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	2	"Tak"	"Panna"	"$25000 TO 29999"	10
+33	17	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Skorpion"	"$75000 TO $89999"	10
+55	17	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Tak"	"Lew"	"$110000 OR OVER"	12
+53	18	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Codziennie"	3	"Tak"	"Wodnik"	"$60000 TO 74999"	6
+29	16	"Licencjat"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	NA	"Nie"	"Codziennie"	1	"Tak"	"Ryby"	NA	13
+64	14	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	1	"Tak"	"Ryby"	"$25000 TO 29999"	9
+56	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Raz w tygodniu"	3	"Nie"	"Wodnik"	"UNDER $1 000"	6
+71	9	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	8	"Nie"	"Waga"	"$8 000 TO 9 999"	3
+39	15	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	2	"Nie"	"Baran"	"$17500 TO 19999"	10
+50	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Skorpion"	"$50000 TO 59999"	2
+56	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Skorpion"	"$30000 TO 34999"	5
+30	14	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Raz w tygodniu"	3	"Tak"	"Waga"	"$40000 TO 49999"	7
+41	18	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Baran"	"$50000 TO 59999"	8
+36	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Tak"	"Panna"	"$110000 OR OVER"	8
+52	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	"Kilka razy w tygodniu"	3	"Tak"	"Strzelec"	"$50000 TO 59999"	8
+77	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Nigdy"	1	"Nie"	"Bliznieta"	NA	1
+49	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	9	"Nie"	"Panna"	"$40000 TO 49999"	2
+56	20	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	1	"Tak"	"Wodnik"	"$90000 - $109999"	13
+64	11	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Lew"	"$17500 TO 19999"	8
+81	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Nigdy"	2	"Nie"	"Rak"	"$25000 TO 29999"	0
+35	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	2	"Nie"	"Koziorozec"	"$60000 TO 74999"	11
+64	6	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Rak"	"$7 000 TO 7 999"	11
+69	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Mniej niz raz w tygodniu"	22	"Nie"	"Baran"	"$3 000 TO 3 999"	1
+58	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Raz w tygodniu"	2	"Tak"	"Rak"	"$40000 TO 49999"	12
+54	6	"Szkola zawodowa"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Ekscytujace"	"Nie"	"Mniej niz raz w tygodniu"	3	"Tak"	"Byk"	"$75000 TO $89999"	7
+33	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Panna"	"$22500 TO 24999"	1
+39	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	2	"Nie"	"Rak"	"$25000 TO 29999"	12
+60	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	3	"Tak"	"Byk"	"$40000 TO 49999"	6
+20	8	"Szkola zawodowa"	"Kobieta"	"Nie"	"Nieszczesliwy"	NA	NA	"Codziennie"	3	"Nie"	"Lew"	"$17500 TO 19999"	6
+27	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Koziorozec"	"$22500 TO 24999"	11
+83	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Koziorozec"	"$75000 TO $89999"	0
+60	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Kilka razy w tygodniu"	4	"Tak"	"Koziorozec"	"$60000 TO 74999"	7
+23	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Ryby"	"$50000 TO 59999"	10
+84	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Baran"	NA	0
+33	17	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Mniej niz raz w tygodniu"	1	"Tak"	"Lew"	"$90000 - $109999"	8
+22	14	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Rutynowe"	NA	NA	NA	"Tak"	"Panna"	"$1 000 TO 2 999"	6
+46	16	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	NA	NA	7
+24	16	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	1	"Tak"	"Waga"	"$20000 TO 22499"	9
+29	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Waga"	"$60000 TO 74999"	10
+23	14	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Rak"	"$30000 TO 34999"	7
+50	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Waga"	"$40000 TO 49999"	6
+23	15	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Tak"	"Waga"	"$5 000 TO 5 999"	10
+60	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	5	"Nie"	"Rak"	"$17500 TO 19999"	7
+65	4	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Nigdy"	0	"Nie"	"Lew"	"$6 000 TO 6 999"	13
+30	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Strzelec"	"$25000 TO 29999"	10
+55	10	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Mniej niz raz w tygodniu"	1	"Nie"	"Lew"	"$50000 TO 59999"	8
+63	8	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Koziorozec"	"$12500 TO 14999"	5
+41	13	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Kilka razy w tygodniu"	3	"Nie"	"Bliznieta"	"$15000 TO 17499"	8
+39	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	NA	"Codziennie"	1	"Nie"	"Ryby"	"$30000 TO 34999"	9
+89	4	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	3	"Nie"	"Lew"	"$15000 TO 17499"	0
+43	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Skorpion"	"$35000 TO 39999"	1
+28	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Waga"	"$22500 TO 24999"	9
+64	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Codziennie"	1	"Nie"	"Waga"	"$30000 TO 34999"	11
+52	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Baran"	"$75000 TO $89999"	10
+46	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	"Nigdy"	1	"Tak"	"Byk"	"$75000 TO $89999"	11
+50	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Raz w tygodniu"	3	"Tak"	"Wodnik"	"$60000 TO 74999"	8
+53	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Lew"	"$75000 TO $89999"	4
+33	2	"Szkola zawodowa"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Bliznieta"	"$75000 TO $89999"	0
+19	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Baran"	"$4 000 TO 4 999"	4
+85	8	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Rak"	"$15000 TO 17499"	0
+68	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	5	"Nie"	"Ryby"	"$75000 TO $89999"	1
+43	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Koziorozec"	"$35000 TO 39999"	0
+87	8	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	3	"Nie"	"Byk"	"$12500 TO 14999"	0
+69	10	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Bliznieta"	"$110000 OR OVER"	3
+45	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Raz w tygodniu"	2	"Tak"	"Waga"	"$60000 TO 74999"	8
+75	1	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Nie"	"Panna"	"$60000 TO 74999"	1
+42	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Tak"	"Ryby"	"$6 000 TO 6 999"	9
+29	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Raz w tygodniu"	1	"Nie"	"Wodnik"	"$40000 TO 49999"	11
+30	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Kilka razy w tygodniu"	4	"Tak"	"Waga"	"$25000 TO 29999"	7
+30	11	"Szkola zawodowa"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Panna"	"$50000 TO 59999"	0
+43	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Kilka razy w tygodniu"	3	"Nie"	"Bliznieta"	"$12500 TO 14999"	7
+50	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Skorpion"	"$25000 TO 29999"	4
+45	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Bliznieta"	"$50000 TO 59999"	11
+23	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	3	"Tak"	"Lew"	"$30000 TO 34999"	7
+72	17	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Codziennie"	4	"Tak"	"Bliznieta"	"$40000 TO 49999"	1
+45	12	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	"Nigdy"	4	"Tak"	"Rak"	"$35000 TO 39999"	8
+48	12	"Szkola srednia"	"Kobieta"	"Nie"	"Nieszczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Nie"	"Panna"	"$50000 TO 59999"	2
+45	10	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	NA	NA	"Nigdy"	3	"Nie"	"Lew"	"$12500 TO 14999"	7
+36	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Nie"	"Skorpion"	"$30000 TO 34999"	0
+47	14	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Byk"	"$75000 TO $89999"	7
+48	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	1	"Tak"	"Waga"	"$75000 TO $89999"	12
+53	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	3	"Tak"	"Lew"	"$110000 OR OVER"	8
+37	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Waga"	"$75000 TO $89999"	4
+52	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Strzelec"	"$110000 OR OVER"	0
+21	12	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	NA	NA	"Codziennie"	1	"Nie"	"Lew"	"$25000 TO 29999"	10
+66	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Byk"	"$20000 TO 22499"	3
+19	20	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	1	"Tak"	NA	"$110000 OR OVER"	11
+26	17	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Ryby"	"$30000 TO 34999"	4
+40	14	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	"Nigdy"	8	"Tak"	"Wodnik"	"$12500 TO 14999"	4
+32	14	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Raz w tygodniu"	3	"Tak"	"Skorpion"	"$75000 TO $89999"	7
+22	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Strzelec"	"$35000 TO 39999"	1
+74	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Strzelec"	NA	3
+27	14	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Baran"	"$30000 TO 34999"	4
+30	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Mniej niz raz w tygodniu"	3	"Tak"	"Byk"	"$40000 TO 49999"	7
+28	16	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	1	"Tak"	"Byk"	"$75000 TO $89999"	9
+78	10	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Codziennie"	5	"Nie"	"Panna"	"$30000 TO 34999"	7
+32	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Panna"	"$40000 TO 49999"	10
+22	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Kilka razy w tygodniu"	2	"Tak"	"Waga"	"$22500 TO 24999"	8
+58	0	"Szkola zawodowa"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	NA	NA	"Codziennie"	3	"Tak"	"Ryby"	"$17500 TO 19999"	8
+75	8	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Baran"	"$50000 TO 59999"	3
+53	9	"Szkola srednia"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	NA	NA	"Kilka razy w tygodniu"	10	"Nie"	"Lew"	"$17500 TO 19999"	3
+48	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Waga"	"$40000 TO 49999"	12
+30	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Waga"	"$15000 TO 17499"	3
+34	10	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Raz w tygodniu"	3	"Tak"	"Bliznieta"	"$25000 TO 29999"	8
+25	17	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Tak"	"Bliznieta"	"$25000 TO 29999"	5
+77	14	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Byk"	"$20000 TO 22499"	1
+43	13	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Rutynowe"	"Tak"	"Codziennie"	2	"Tak"	"Lew"	"$50000 TO 59999"	13
+61	9	"Szkola zawodowa"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Nudne"	NA	"Kilka razy w tygodniu"	2	"Nie"	"Koziorozec"	NA	8
+62	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Panna"	"$40000 TO 49999"	2
+50	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Nigdy"	1	"Nie"	"Baran"	NA	12
+64	0	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Ryby"	"$7 000 TO 7 999"	4
+50	17	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Skorpion"	"$90000 - $109999"	5
+22	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Byk"	"$110000 OR OVER"	0
+52	16	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Koziorozec"	"$110000 OR OVER"	9
+31	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Mniej niz raz w tygodniu"	3	"Tak"	"Byk"	"$75000 TO $89999"	7
+70	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Codziennie"	4	"Tak"	"Strzelec"	"$110000 OR OVER"	2
+25	13	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Bliznieta"	"$30000 TO 34999"	5
+67	10	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	2	"Tak"	"Baran"	"$25000 TO 29999"	1
+39	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Nie"	"Ryby"	"$50000 TO 59999"	6
+66	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Nie"	"Lew"	"$20000 TO 22499"	1
+71	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	2	"Tak"	"Wodnik"	"$75000 TO $89999"	1
+25	18	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	3	"Nie"	"Rak"	"$110000 OR OVER"	7
+25	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Nie"	NA	"$110000 OR OVER"	5
+NA	16	"Licencjat"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	2	"Tak"	"Ryby"	"$40000 TO 49999"	11
+54	18	"Magisterium"	"Kobieta"	"Nie"	"Nieszczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Strzelec"	"$50000 TO 59999"	9
+36	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	"Codziennie"	2	"Tak"	"Strzelec"	"$75000 TO $89999"	10
+40	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	4	"Nie"	"Wodnik"	"$30000 TO 34999"	8
+70	11	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	6	"Nie"	"Ryby"	"$60000 TO 74999"	3
+34	19	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Baran"	"$110000 OR OVER"	7
+51	20	"Magisterium"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	2	"Tak"	"Rak"	NA	12
+47	14	"Policealna"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Tak"	"Codziennie"	2	"Tak"	"Strzelec"	"$75000 TO $89999"	10
+46	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	1	"Tak"	"Bliznieta"	"$30000 TO 34999"	8
+46	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Codziennie"	2	"Tak"	"Wodnik"	"$60000 TO 74999"	13
+73	11	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Waga"	"$8 000 TO 9 999"	1
+51	13	"Szkola srednia"	"Kobieta"	"Tak"	"Nieszczesliwy"	NA	NA	"Nigdy"	5	"Nie"	"Skorpion"	"$20000 TO 22499"	6
+40	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Koziorozec"	"$75000 TO $89999"	9
+43	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	1	"Nie"	"Strzelec"	"$40000 TO 49999"	8
+82	16	"Licencjat"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Skorpion"	"$40000 TO 49999"	0
+55	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	"Codziennie"	3	"Tak"	"Koziorozec"	"$50000 TO 59999"	8
+26	14	"Policealna"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Strzelec"	NA	1
+42	17	"Licencjat"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Ekscytujace"	"Tak"	NA	NA	"Tak"	"Ryby"	"$40000 TO 49999"	9
+35	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Baran"	"$40000 TO 49999"	10
+40	18	"Magisterium"	"Kobieta"	"Nie"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	"Kilka razy w tygodniu"	3	"Tak"	"Byk"	"$110000 OR OVER"	6
+46	12	"Szkola zawodowa"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Nie"	"Panna"	"$1 000 TO 2 999"	5
+58	15	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Waga"	"$60000 TO 74999"	4
+42	15	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	NA	"Raz w tygodniu"	2	"Tak"	"Skorpion"	"$110000 OR OVER"	11
+73	9	"Szkola zawodowa"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Raz w tygodniu"	2	"Nie"	"Baran"	NA	2
+42	12	"Szkola srednia"	"Kobieta"	"Nie"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	4	"Tak"	"Baran"	"$22500 TO 24999"	6
+72	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	4	"Nie"	"Panna"	NA	2
+43	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Panna"	"$35000 TO 39999"	7
+51	18	"Licencjat"	"Kobieta"	"Tak"	"Nieszczesliwy"	"Rutynowe"	"Nie"	NA	NA	"Tak"	"Ryby"	"$25000 TO 29999"	7
+23	14	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	3	"Tak"	"Byk"	"$3 000 TO 3 999"	6
+28	19	"Magisterium"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Bliznieta"	"$22500 TO 24999"	1
+20	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Lew"	"$1 000 TO 2 999"	8
+71	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	"Codziennie"	5	"Tak"	"Strzelec"	"$60000 TO 74999"	1
+38	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	3	"Nie"	"Ryby"	NA	6
+42	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	"Codziennie"	2	"Tak"	"Bliznieta"	"$75000 TO $89999"	11
+45	16	"Licencjat"	"Kobieta"	"Nie"	"Nieszczesliwy"	"Ekscytujace"	NA	NA	NA	"Nie"	"Bliznieta"	"$8 000 TO 9 999"	3
+24	15	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	"Tak"	"Raz w tygodniu"	2	"Tak"	"Rak"	"$12500 TO 14999"	11
+52	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Ryby"	"$40000 TO 49999"	10
+52	14	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	"Raz w tygodniu"	1	"Nie"	"Ryby"	NA	11
+41	9	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	NA	NA	NA	"Nie"	"Koziorozec"	"$3 000 TO 3 999"	7
+32	14	"Policealna"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	2	"Nie"	"Koziorozec"	"$40000 TO 49999"	13
+28	16	"Licencjat"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Codziennie"	2	"Tak"	"Skorpion"	"$35000 TO 39999"	8
+68	16	"Magisterium"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Ekscytujace"	NA	NA	NA	"Tak"	"Panna"	"$75000 TO $89999"	3
+66	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	"Rutynowe"	"Nie"	"Codziennie"	6	"Nie"	"Lew"	"$40000 TO 49999"	3
+25	12	"Szkola srednia"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	1	"Tak"	"Koziorozec"	"$25000 TO 29999"	13
+36	12	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Ekscytujace"	"Nie"	NA	NA	"Tak"	"Rak"	"$50000 TO 59999"	2
+22	9	"Szkola zawodowa"	"Kobieta"	"Tak"	"Dosc szczesliwy"	NA	NA	"Kilka razy w tygodniu"	2	"Nie"	"Wodnik"	"$22500 TO 24999"	11
+46	13	"Szkola srednia"	"Kobieta"	"Tak"	"Bardzo szczesliwy"	"Rutynowe"	"Tak"	NA	NA	"Nie"	"Bliznieta"	"$75000 TO $89999"	5

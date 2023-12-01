@@ -1,0 +1,101 @@
+"opinia" "wykszt" "wynagro"
+"1" "Ani tak, ani nie" "zawodowe lub niższe" 3562.99
+"2" "Ani tak, ani nie" "wyższe" 2627.56
+"3" "Raczej nie" "zawodowe lub niższe" 3976.97
+"4" "Raczej nie" "wyższe" 2625.42
+"5" "Ani tak, ani nie" "średnie" 4052.71
+"6" "Zdecydowanie tak" "średnie" 1950.82
+"7" "Raczej tak" "zawodowe lub niższe" 1739.84
+"8" "Zdecydowanie nie" "wyższe" 6241.04
+"9" "Raczej nie" "średnie" 2583.14
+"10" "Ani tak, ani nie" "zawodowe lub niższe" 3298.23
+"11" "Zdecydowanie tak" "wyższe" 3636.57
+"12" "Ani tak, ani nie" "wyższe" 2516.22
+"13" "Ani tak, ani nie" "wyższe" 3516.86
+"14" "Zdecydowanie nie" "zawodowe lub niższe" 3368.96
+"15" "Raczej tak" "średnie" 2784.62
+"16" "Zdecydowanie nie" "średnie" 3065.29
+"17" "Zdecydowanie nie" "zawodowe lub niższe" 2965.93
+"18" "Zdecydowanie tak" "średnie" 5128.45
+"19" "Ani tak, ani nie" "wyższe" 2258.66
+"20" "Raczej nie" "wyższe" 1904
+"21" "Raczej nie" "zawodowe lub niższe" 3037.79
+"22" "Zdecydowanie nie" "średnie" 3310.48
+"23" "Ani tak, ani nie" "zawodowe lub niższe" 3436.52
+"24" "Raczej tak" "średnie" 2541.63
+"25" "Zdecydowanie nie" "wyższe" 1936.67
+"26" "Ani tak, ani nie" "wyższe" 4263.19
+"27" "Zdecydowanie tak" "zawodowe lub niższe" 2650.35
+"28" "Raczej tak" "wyższe" 2134.49
+"29" "Raczej nie" "średnie" 2763.72
+"30" "Zdecydowanie tak" "zawodowe lub niższe" 2802.82
+"31" "Zdecydowanie nie" "zawodowe lub niższe" 4109.92
+"32" "Zdecydowanie nie" "średnie" 3084.74
+"33" "Raczej nie" "wyższe" 3754.05
+"34" "Ani tak, ani nie" "zawodowe lub niższe" 2500.71
+"35" "Raczej tak" "średnie" 3214.45
+"36" "Zdecydowanie tak" "średnie" 2675.31
+"37" "Zdecydowanie tak" "zawodowe lub niższe" 3094.58
+"38" "Ani tak, ani nie" "średnie" 2104.64
+"39" "Zdecydowanie nie" "zawodowe lub niższe" 1689.2
+"40" "Raczej nie" "zawodowe lub niższe" 4997.21
+"41" "Zdecydowanie tak" "średnie" 3600.71
+"42" "Zdecydowanie tak" "zawodowe lub niższe" 1748.73
+"43" "Raczej tak" "wyższe" 2388.83
+"44" "Zdecydowanie tak" "zawodowe lub niższe" 1814.52
+"45" "Raczej nie" "zawodowe lub niższe" 5198.81
+"46" "Zdecydowanie nie" "średnie" 4312.41
+"47" "Zdecydowanie nie" "zawodowe lub niższe" 2734.85
+"48" "Ani tak, ani nie" "średnie" 3543.19
+"49" "Zdecydowanie nie" "zawodowe lub niższe" 2585.66
+"50" "Zdecydowanie tak" "zawodowe lub niższe" 2523.75
+"51" "Zdecydowanie nie" "zawodowe lub niższe" 2211.4
+"52" "Raczej nie" "wyższe" 2405.38
+"53" "Raczej tak" "wyższe" 4650.91
+"54" "Raczej tak" "średnie" 2945.97
+"55" "Ani tak, ani nie" "zawodowe lub niższe" 3119.25
+"56" "Zdecydowanie nie" "średnie" 3243.69
+"57" "Raczej nie" "wyższe" 4232.48
+"58" "Zdecydowanie nie" "średnie" 2483.94
+"59" "Raczej nie" "wyższe" 2007.49
+"60" "Raczej tak" "średnie" 4675.7
+"61" "Zdecydowanie tak" "wyższe" 2558.84
+"62" "Zdecydowanie tak" "zawodowe lub niższe" 2276.93
+"63" "Ani tak, ani nie" "zawodowe lub niższe" 1763.73
+"64" "Zdecydowanie nie" "zawodowe lub niższe" 1715.28
+"65" "Raczej tak" "zawodowe lub niższe" 2426.03
+"66" "Zdecydowanie nie" "wyższe" 3617.99
+"67" "Zdecydowanie nie" "średnie" 4109.85
+"68" "Ani tak, ani nie" "zawodowe lub niższe" 3707.59
+"69" "Raczej tak" "średnie" 2636.34
+"70" "Zdecydowanie nie" "zawodowe lub niższe" 3059.75
+"71" "Ani tak, ani nie" "wyższe" 2295.4
+"72" "Zdecydowanie tak" "wyższe" 2282.78
+"73" "Ani tak, ani nie" "zawodowe lub niższe" 3884.65
+"74" "Raczej nie" "średnie" 1984.41
+"75" "Zdecydowanie tak" "wyższe" 4955.29
+"76" "Zdecydowanie tak" "zawodowe lub niższe" 2909.68
+"77" "Ani tak, ani nie" "wyższe" 3214.54
+"78" "Raczej nie" "średnie" 2261.47
+"79" "Raczej nie" "zawodowe lub niższe" 2425.61
+"80" "Raczej nie" "zawodowe lub niższe" 1682.98
+"81" "Raczej tak" "zawodowe lub niższe" 2817.07
+"82" "Raczej nie" "zawodowe lub niższe" 3418.98
+"83" "Raczej nie" "zawodowe lub niższe" 3324.3
+"84" "Raczej tak" "wyższe" 2218.46
+"85" "Raczej tak" "średnie" 2211.38
+"86" "Zdecydowanie nie" "średnie" 2497.8
+"87" "Ani tak, ani nie" "średnie" 4496.06
+"88" "Ani tak, ani nie" "wyższe" 1862.7
+"89" "Zdecydowanie nie" "zawodowe lub niższe" 2820.95
+"90" "Ani tak, ani nie" "średnie" 4902.36
+"91" "Zdecydowanie tak" "średnie" 2899.03
+"92" "Raczej nie" "zawodowe lub niższe" 1640.16
+"93" "Ani tak, ani nie" "średnie" 2335.23
+"94" "Raczej nie" "zawodowe lub niższe" 3485.46
+"95" "Zdecydowanie tak" "zawodowe lub niższe" 2624.4
+"96" "Zdecydowanie tak" "średnie" 2438.12
+"97" "Ani tak, ani nie" "wyższe" 2656.08
+"98" "Raczej tak" "zawodowe lub niższe" 3090.5
+"99" "Raczej tak" "wyższe" 4598.51
+"100" "Raczej tak" "zawodowe lub niższe" 2911.43
