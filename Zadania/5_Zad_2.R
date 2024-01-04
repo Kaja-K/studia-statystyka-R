@@ -1,12 +1,8 @@
-library(dplyr)
-library(tidyr)
+library(tidyverse)
 
 #dane
-dane_mieszkania <- read.csv("Zadania/Dane/mieszkania.txt", sep = ";", header = TRUE)
+dane_mieszkania <- read.csv("Zadania/Dane/mieszkania.txt", sep = ";", header = TRUE, dec = ",")
 colnames(dane_mieszkania)
-    
-  # Convert columns to numeric, handling commas - czemu bez tego mi nie działało?
-  dane_mieszkania <- dane_mieszkania %>% mutate(across(c(cena, powierzchnia), ~as.numeric(gsub(",", ".", .))))
 
 #Dodaj kolumnę cena_m2
 dane_mieszkania <- dane_mieszkania %>% mutate(cena_m2 = cena / powierzchnia)

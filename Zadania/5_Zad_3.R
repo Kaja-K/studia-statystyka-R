@@ -1,11 +1,10 @@
-library(dplyr)
-library(tidyr)
+library(tidyverse)
 
 #dane
 auto <- read.csv("Zadania/Dane/AutoSprzedam.dat", header=TRUE, sep = "\t")
 
 #Zmiana nazwy pierwszej kolumny na NrOferty
-colnames(auto)[1] <- "NrOferty"
+names(auto)[1] <- "NrOferty"
 colnames(auto)
 
 #Stworzenie ramki danych df_niePolska bez ofert z Polski
