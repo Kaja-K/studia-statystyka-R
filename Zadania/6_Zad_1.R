@@ -9,6 +9,6 @@ plot_data <- data.frame(x = rep(x, times = length(df_values)),
                         y_normal = dnorm(rep(x, each = length(df_values))),
                         y_t = dt(rep(x, each = length(df_values)), df = rep(df_values, each = length(x))))
 
-ggplot(plot_data, aes(x = x, y = y_normal, color = "Normal")) +
+ggplot(plot_data, aes(x = x, y = y_normal)) +
   geom_line() + geom_line(aes(y = y_t, color = as.factor(df)), linetype = "dashed") +
   labs(title = "Porównanie gęstości rozkładu normalnego i t-studenta", x = "Wartości", y = "Gęstość")
