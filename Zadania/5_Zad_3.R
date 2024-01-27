@@ -45,7 +45,15 @@ df_akcyza <- auto %>%
 head(df_akcyza,6)
 
 #Usunięcie obserwacji dla których RodzajPaliwa to hybryda lub napęd elektryczny oraz zrekodowanie zmiennej RodzajPaliwa na benzyna i olej napędowy
-auto <- auto %>% filter(!(RodzajPaliwa %in% c("hybryda", "napęd elektryczny"))) %>%
-  mutate(RodzajPaliwa = ifelse(RodzajPaliwa %in% c("benzyna", "olej napędowy"), RodzajPaliwa, NA))
+auto_bez_h_ne <- auto %>% filter(RodzajPaliwa != "hybryda" & RodzajPaliwa != "napęd elektryczny")
 
-head(auto,5)
+unique(auto_bez_h_ne$RodzajPaliwa)
+
+recode_factor(auto_bez_h_ne$RodzajPaliwa, 
+              "olej napędowy (diesel)" = "olej napędowy",
+              "benzyna" = "benzyna",
+              "benzyna+LPG" = "benzyna",
+              "benzyna+CNG" = "benzyna")
+
+recode_factor(auto_bez_h_ne$RodzajPaliwa, 
+              "olej napędowy (diesel)" = "olej napędowy", .default = "benzyna")

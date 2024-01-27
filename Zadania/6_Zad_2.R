@@ -1,16 +1,14 @@
 library(ggplot2)
-# Wczytanie danych
-customers <- read.table("Zadania/Dane/WholesaleCustomers.txt", header = TRUE, sep = ",")
 
-# Obliczenie korelacji
-correlation_matrix <- cor(customers[c("Milk", "Fresh", "Grocery", "Frozen", "Detergents_Paper", "Delicassen")])
+WholesaleCustomers <- read.table(file = "Zadania/Dane/WholesaleCustomers.txt", sep = ",", dec = ".", header = TRUE)
 
-# Przekształcenie macierzy korelacji do postaci dataframe
-correlation_df <- as.data.frame(as.table(correlation_matrix))
+WC_longer <- pivot_longer(WholesaleCustomers, 
+                          cols = c(Fresh, Grocery, Frozen, Detergents_Paper, Delicassen),
+                          names_to = "Type", values_to = "Expenses")
 
-# Tworzenie wykresu korelacji w ggplot2
-ggplot(correlation_df, aes(x = "Milk", y = Var2, fill = Freq)) +
-  geom_col(position = "dodge") +
-  labs(title = "Korelacja między Mlekiem a Pozostałymi Produktami", y = "Wartość korelacji pomiędzy danym produktem", x = NULL)
-
-
+# Wykres punktowy korelacji w danych regionach
+ggplot(WC_longer, aes(x = Milk, y = Expenses, color = Type)) +
+  geom_point(alpha = 0.5) +
+  facet_wrap(~ Region) +
+  labs(title = "Wykres korelacji między wydatkami na mleko a innymi produktami",
+       x = "Wydatki na mleko", y = "Inne wydatki", colour = "Region")

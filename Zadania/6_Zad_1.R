@@ -1,14 +1,14 @@
-library(ggplot2)
+#Porównaj kształt funkcji gęstości rozkładu normalnego i rozkładu t-studenta,
+#dla różnych stopni swobody, np. 3, 8, 20. W tym celu narysuj na jednym
+# wykresie odpowiednie funkcje gęstości.
 
-x <- seq(-4, 4, length = 1000)
-df_values <- c(3, 8, 20)  # Stopnie swobody
-
-# Tworzenie wykresu
-plot_data <- data.frame(x = rep(x, times = length(df_values)), 
-                        df = rep(df_values, each = length(x)),
-                        y_normal = dnorm(rep(x, each = length(df_values))),
-                        y_t = dt(rep(x, each = length(df_values)), df = rep(df_values, each = length(x))))
-
-ggplot(plot_data, aes(x = x, y = y_normal)) +
-  geom_line() + geom_line(aes(y = y_t, color = as.factor(df)), linetype = "dashed") +
-  labs(title = "Porównanie gęstości rozkładu normalnego i t-studenta", x = "Wartości", y = "Gęstość")
+  library(ggplot2)
+  
+  ramka <- data.frame(osX = c(-5, 5))
+  
+  ggplot(ramka, aes(x = osX)) +
+    labs(x = "x", y = "f(x)") +
+    stat_function(fun = dt, colour ="#459000", args = list(df = 3)) +
+    stat_function(fun = dt, colour = "#303090", args = list(df = 8)) +
+    stat_function(fun = dt, colour = "#0021FF", args = list(df = 20)) +
+    stat_function(fun = dnorm, colour = "#9000FF") 

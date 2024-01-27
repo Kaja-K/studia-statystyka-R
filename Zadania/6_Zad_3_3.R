@@ -7,11 +7,16 @@ library(ggplot2)
   auto <- head(auto,50)
   colnames(auto)
 
+###############################################################################
+
 #Stworzenie ramki danych df_niePolska bez ofert z Polski
   df_niePolska <- auto %>% filter(KrajPochodzenia != "Polska")
 
   ggplot(df_niePolska, aes(x = PojemnoscSkokowa, y = CenaPLN)) + geom_point() +
   labs(title = "Wykres punktowy dla ofert spoza Polski", x = "Pojemność skokowa", y = "Cena (PLN)")
+
+  
+###############################################################################
 
 #Stworzenie ramki danych df_kraje3 z trzema najczęściej występującymi krajami
   df_kraje3 <- auto %>%
@@ -29,13 +34,17 @@ library(ggplot2)
       labs(title = "Wykres punktowy dla trzech najczęściej występujących krajów", x = "Pojemność skokowa", y = "Cena (PLN)", color = "Kraj pochodzenia")
 
 
-
+###############################################################################
+    
 #Utworzenie ramki danych df_kolor zawierającej samochody w kolorze czarny-metallic
   df_kolor <- auto %>% filter(Kolor == "czarny-metallic")
   
   ggplot(df_kolor, aes(x = KM, y = CenaPLN)) + geom_point() +
     labs(title = "Samochody koloru czarnego",x = "KM", y = "CenaPLN")
 
+  
+###############################################################################
+  
     #Dodanie zmiennej cena_eur do ramki danych auto
       auto <- auto %>%
         mutate(CenaPLN = as.numeric(CenaPLN)) %>%  # zmiana typu na numeryczny
@@ -51,10 +60,25 @@ library(ggplot2)
   ggplot(df_akcyza, aes(x = PojemnoscSkokowa, y = CenaAkcyza)) + geom_point() +
       labs(title = "PojemnoscSkokowa vs CenaAkcyza", x = "PojemnoscSkokowa", y = "CenaAkcyza")
 
-
-#Usunięcie obserwacji dla których RodzajPaliwa to hybryda lub napęd elektryczny oraz zrekodowanie zmiennej RodzajPaliwa na benzyna i olej napędowy
-  auto <- auto %>% filter(!(RodzajPaliwa %in% c("hybryda", "napęd elektryczny"))) %>%
-    mutate(RodzajPaliwa = ifelse(RodzajPaliwa %in% c("benzyna", "olej napędowy"), RodzajPaliwa, NA))
   
-  ggplot(auto, aes(x = RokProdukcji, y = CenaPLN, color = RodzajPaliwa)) + geom_point() +
+###############################################################################
+  
+#Usunięcie obserwacji dla których RodzajPaliwa to hybryda lub napęd elektryczny
+# oraz zrekodowanie zmiennej RodzajPaliwa na benzyna i olej napędowy
+  auto_bez_h_ne <- auto %>% filter(RodzajPaliwa != "hybryda" & RodzajPaliwa != "napęd elektryczny")
+  
+  unique(auto_bez_h_ne$RodzajPaliwa)
+  
+  recode_factor(auto_bez_h_ne$RodzajPaliwa, 
+                "olej napędowy (diesel)" = "olej napędowy",
+                "benzyna" = "benzyna",
+                "benzyna+LPG" = "benzyna",
+                "benzyna+CNG" = "benzyna")
+  
+  recode_factor(auto_bez_h_ne$RodzajPaliwa, 
+                "olej napędowy (diesel)" = "olej napędowy", .default = "benzyna")
+  
+  ggplot(auto_bez_h_ne, aes(x = RokProdukcji, y = CenaPLN, color = RodzajPaliwa)) + geom_point() +
     labs(title = "Rodzaje paliwa a cena i rok produkcji",  x = "RokProdukcji", y = "CenaPLN")
+  
+###############################################################################
