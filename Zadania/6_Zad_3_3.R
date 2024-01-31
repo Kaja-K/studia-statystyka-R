@@ -22,9 +22,9 @@ library(ggplot2)
   names(auto)[1] <- "IDOferty"
 
 #WYKRES
-  ggplot(auto, aes(x=Marka, y=PrzebiegKm)) +
-    geom_point() + 
-    labs(x = "Marka", y = "Przebieg", title = "Stosunek marki do przebiegu")
+  ggplot(auto, aes(x=PrzebiegKm, colour = Marka, fill = Marka)) + #fill musi być w funkcji gęstości
+    geom_density(alpha = 0.1) + # alpha = ustawia przezroczystość
+    labs(x = "Marka", colour = "Przebieg", fill = "Przebieg", title = "Stosunek marki do przebiegu")
 
 ###############################################################################
 
