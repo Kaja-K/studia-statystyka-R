@@ -1,6 +1,7 @@
 library(tidyverse)
 library(e1071)
 
+###############################################################################
 
 #dane - dane są wypisane po przecinku, występuje nagłówek
 
@@ -35,13 +36,19 @@ library(e1071)
 # z danymi tidy
   
     #mediana ze względu na kanał
-    WholesaleCustomers_tidy %>% group_by(Channel) %>% summarise(mediana = median(Expenses))
+    WholesaleCustomers_tidy %>% 
+      group_by(Channel) %>% 
+      summarise(mediana = median(Expenses))
     
     # mediana ze względu na kabnał i region 
-    WholesaleCustomers_tidy %>% group_by(Channel,Region) %>% summarise(mediana = median(Expenses))
+    WholesaleCustomers_tidy %>% 
+      group_by(Channel,Region) %>% 
+      summarise(mediana = median(Expenses))
     
     # mediana ze względu na kanał i region dla produktów - z polecenia 
-    WholesaleCustomers_tidy %>% group_by(Channel,Region, Type) %>% summarise(mediana = median(Expenses))
+    WholesaleCustomers_tidy %>% 
+      group_by(Channel,Region, Type) %>% 
+      summarise(mediana = median(Expenses))
   
   
 ###############################################################################
@@ -68,14 +75,16 @@ library(e1071)
 
 # z danymi tidy - 2 metoda robienia  
         
-    WholesaleCustomers_tidy %>% filter(Type == "Milk" | Type == "Grocery") %>% 
-      group_by(Type, Region) %>% summarise(srednia = mean(Expenses), 
-                                           mediana = median(Expenses),
-                                           variancja = var(Expenses),
-                                           odchylenie = sd(Expenses),
-                                           rozstep = IQR(Expenses),
-                                           skosnosc = skewness(Expenses, type = 2),
-                                           kurtoza = kurtosis(Expenses, type = 2))
+    WholesaleCustomers_tidy %>% 
+      filter(Type == "Milk" | Type == "Grocery") %>% 
+      group_by(Type, Region) %>% 
+      summarise(srednia = mean(Expenses), 
+                mediana = median(Expenses),
+                variancja = var(Expenses),
+                odchylenie = sd(Expenses),
+                rozstep = IQR(Expenses),
+                skosnosc = skewness(Expenses, type = 2),
+                kurtoza = kurtosis(Expenses, type = 2))
       
         # typy kurtozy - 1 - estymator trzeciego momentu,
                         # 2 - estymator trzeciego moemntu znormalizowanego
@@ -89,12 +98,13 @@ library(e1071)
 #Co dwudziesty percentyl wydatków na wszytskie produkty z uwzględnieniem kanały 
   #dystrybucji, posortuj aby porównać regoiony
 
-  WholesaleCustomers_tidy %>% group_by(Channel, Type) %>%
-  summarise(percentyl_20 = quantile(Expenses, probs=0.2),
-            percentyl_40 = quantile(Expenses, probs=0.4),
-            percentyl_60 = quantile(Expenses, probs=0.6),
-            percentyl_80 = quantile(Expenses, probs=0.8)) %>% 
-    arrange(Channel)
+  WholesaleCustomers_tidy %>% 
+      group_by(Channel, Type) %>%
+      summarise(percentyl_20 = quantile(Expenses, probs=0.2),
+              percentyl_40 = quantile(Expenses, probs=0.4),
+              percentyl_60 = quantile(Expenses, probs=0.6),
+              percentyl_80 = quantile(Expenses, probs=0.8)) %>% 
+      arrange(Channel)
   
     
   # dla tidy bo bez Expenses by trzeba było sumować każdy typ osobno 
@@ -103,8 +113,11 @@ library(e1071)
 ###############################################################################
   
 #Zbuduj tabelę przedstawiającą kanały dystrybucji i region. częstości występowania par w zbiorze
-  WholesaleCustomers_tidy %>% group_by(Channel, Region) %>% 
-    summarise(ile = n()) %>% mutate(proc = ile/sum(ile))
+    
+  WholesaleCustomers_tidy %>% 
+      group_by(Channel, Region) %>% 
+      summarise(ile = n()) %>% 
+      mutate(proc = ile/sum(ile))
     
     # n() - podaje dla każdej grupy liczbę obserwacji
     # częstośc to ilość obserwacji w zbiorze dla każdego kanału i regionu 
