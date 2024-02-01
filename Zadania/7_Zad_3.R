@@ -46,7 +46,7 @@ library(tidyverse)
     #H0: Średnia wieku pracowników jest równa 45 lat. mi = 45
     #H1: Średnia wieku pracowników jest różna od 45 lat. mi =/= 45
       
-      t.test(zatrudnienie$wiek, mu = 45, alternative = "two.sided")
+      t.test(wiek, mu = 45, alternative = "two.sided")
       #Decyzja: Odrzucamy hipotezę zerową na korzyśc hipotezy alternatywnej ponieważ p-wartość < 0.05.
   
       
@@ -81,8 +81,8 @@ library(tidyverse)
 #BINCOF
       
   #Podział ufności dla proporcji
-    # Hipoteza zerowa (H0): Proporcja sukcesów w próbie wynosi 0.5 (50%).
-    # Hipoteza alternatywna (H1): Proporcja sukcesów w próbie jest różna od 0.5.
+    # H0: Proporcja sukcesów w próbie wynosi 0.5 (50%).
+    # H1: Proporcja sukcesów w próbie jest różna od 0.5.
 
       table(bankFull$poutcome) # sprawdzam proporcje, wybieram tylko sukces i porażke
       
@@ -99,7 +99,9 @@ library(tidyverse)
     #H0: Procent klientów, którzy zdecydowali się na produkt, wynosi 50%.
     #H1: Procent klientów, którzy zdecydowali się na produkt, jest inny niż 50%.
       
-      prop.test(table(data$y))
+      table(data$y)
+      prop.test(39922, 5289+39922 ,p = 0.5) # obie opcje są poprawne
+      prop.test(table(data$y) ,p = 0.5)
       #Decyzja: Odrzucamy hipotezę zerową na korzysć hipotezy alternatywnej ponieważ p-wartość < 0.05
   
   #Procent kobiet zatrudnionych

@@ -8,15 +8,23 @@ library(ggplot2)
   data <- read.csv2("dane/sopaKobiety.csv", header = TRUE, sep = ";")
     # Wczytuje dane, określa separator, nagłówek
   
-  data_stat <- data %>% group_by(klasa_miejscowosci) %>%
-    summarise(mediana = median(dochod2009), srednia = mean(dochod2009))
+  data_stat <- data %>% 
+    group_by(klasa_miejscowosci) %>%
+    summarise(mediana = median(dochod2009), 
+              srednia = mean(dochod2009))
     # Grupuje dane według klasy miejscowości (klasa_miejscowosci) i oblicza medianę
     # (median) oraz średnią (mean) dla dochodu (dochod2009). 
   
+    #przykałdowe dane do zadania
+    data_stat <- data.frame(
+      klasa_miejscowosci = c("Miejscowosc1", "Miejscowosc2", "Miejscowosc3"),
+      mediana = c(20000, 25000, 18000),
+      srednia = c(21000, 26000, 18500))
+    
   data_pivot <- pivot_longer(data_stat, cols = c(srednia, mediana), names_to = "typ", values_to = "wartosci")
     # Przekształca ramkę danych data_stat z szerokiej do długiej postaci
-  
-  ggplot(data_pivot, aes(x = klasa_miejscowosci, y = wartosci, fill = typ)) + geom_col() +
+
+  ggplot(data_pivot, aes(x = klasa_miejscowosci, y = wartosci, fill = typ)) + geom_col(position="dodge") +
     labs(title = "Średnia vs mediana dla klas miejscowości",x = "Klasa miejscowości", y = "Wartość", 
          fill = "Typ statystyki podsumowującej")
     # Tworzy wykres kolumnowy (geom_col) na podstawie danych w ramce data_pivot. Oś X to klasa miejscowości, 

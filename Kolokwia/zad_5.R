@@ -7,11 +7,13 @@ library(ggplot2)
 
   ramka <- read.table("daneQuiz/Kmq0p8l45wf.txt")
   
-  nrows(ramka)
-    # liczba wierszy w ramce
+    nrows(ramka)
+      # liczba wierszy w ramce
+    
+    ncols(ramka)
+      # liczba kolumn w ramce
   
-  ncols(ramka)
-    # liczba kolumn w ramce
-
-  length(which(sapply(ramka, is.numeric)))
-    # liczba zmiennych numerycznych
+    # dwa różne sposoby
+    length(which(sapply(ramka, is.numeric)))
+    sum(sapply(ramka,is.numeric))
+      # liczba zmiennych numerycznych

@@ -1,4 +1,4 @@
-library(dplyr)
+library(tidyverse)
 library(ggplot2)
 
 # Wczytaj zbiór danych sopakobiety.csv wiedząc, że brak danych reprezentowane 
@@ -9,20 +9,19 @@ library(ggplot2)
 sopakobiety <- read.csv("dane/sopakobiety.csv", sep = " ", header = TRUE)
 
 # a) uwzględniając niektóre ze zmiennych: ep4, ep13, eduk4 2009
-  test_a <- t.test(ep4 ~ eduk4, data = sopakobiety)
-    # Test t dla dwóch próbek (porównanie średnich)
-
-  #Test t dla dwóch próbek:
-    # Jeśli p-wartość jest mniejsza niż poziom istotności (np. 0.01), możemy odrzucić hipotezę zerową. 
-    #Poniżej jest przykładowa interpretacja:
-      # Jeśli p-value < 0.01, odrzucamy hipotezę zerową, co sugeruje, że średnie dwóch grup są różne.
-      # Jeśli p-value >= 0.01, nie mamy podstaw do odrzucenia hipotezy zerowej.
-  
+  # H0: brak różnic między wartościami zmiennych w roku 2009
+  # H1: różnice między wartościami zmiennych w roku 2009
+  chisq.test(table(sopakobiety$ep4, sopakobiety$ep13, sopakobiety$eduk4))
+  # Decyzja: nie ammy podstaw do odrzucenia hipotez ponieważ p-wartość > 0.01
 
 # b) uwzględniając niektóre ze zmiennych: ep121, ep103, dochod2009.
-  test_b <- t.test(ep121 - ep103, mu = 0, data = sopakobiety)
-    # Test t dla jednej próbki (średnia różnica od teoretycznej wartości)
+  # H0: Brak istotnych różnic między wartościami zmiennych ep121, ep103, dochod2009.
+  # H1: Istnieją istotne różnice między wartościami zmiennych ep121, ep103, dochod2009
+
+
+  t.test(sopakobiety$ep121, sopakobiety$ep103, conf.level = 0.99)
+  t.test(sopakobiety$ep121, sopakobiety$dochod2009, conf.level = 0.99)
+  t.test(sopakobiety$dochod2009, sopakobiety$ep103, conf.level = 0.99)
+  #Decyzja: odrzucamy huipoteze zerowa na korzysc alternatywnej bo p-wartosc < 0.01
   
-  #Test t dla jednej próbki - Podobnie jak w przypadku testu dla dwóch próbek, p-wartość jest kluczowa do interpretacji:
-    # Jeśli p-value < 0.01, odrzucamy hipotezę zerową, co sugeruje, że średnia różnica między grupami nie jest równa zero.
-    # Jeśli p-value >= 0.01, nie mamy podstaw do odrzucenia hipotezy zerowej.  
+  

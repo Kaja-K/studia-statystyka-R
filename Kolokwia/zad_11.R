@@ -13,13 +13,16 @@ etykiety <- read.table("etykietySopa_zm50.txt", header = TRUE)
 zmienne_af1 <- sopa_zm50$af1_1:af1_13
   # Wybranie zmiennych od af1_1 do af1_13
 
-zmienne_af1[zmienne_af1 != "tak"] <- NA
-zmienne_af1 <- apply(zmienne_af1, 2, as.numeric)
-  # zamiana wartości "tak" na 1, a inne na braki (NA) 
-  # ("nie" do naszych obliczeń może być traktowana jako brak danych)
+zmienne_af1[zmienne_af1 != "tak" | zmienne_af1!="nie"] <- NA
 
-odsetki <- apply(!is.na(zmienne_af1), 2, mean)
-  # oblicza średnią z kolumn w których nie występuje NA (2 - wykonywane dla kolumn)
+  # 1 opcja
+    zmienne_af1 <- apply(zmienne_af1, 2, as.numeric)
+    odsetki <- apply(!is.na(zmienne_af1), 2, mean)
+    # oblicza odsetki 
+  
+  # 2 opcja
+    wyniki <- sopa_zm50 %>%
+      summarise(across(everything(), ~mean(!is.na(.))))
 
 wyniki <- data.frame(dobra = colnames(zmienne_af1), odsetek = odsetki)
   # utworzenie ramki danych z wynikami

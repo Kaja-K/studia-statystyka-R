@@ -13,6 +13,6 @@ library(ggplot2)
   
   
     # tworzymy funkcję która przyjmuje x i zwraca nowy wektor, który zawiera tylko 
-    # wartości odpowiadające warunkowi logicznemu - 1 kwartyl - 0.25 3 kwartyl  - 0,75
+    # wartości odpowiadające warunkowi logicznemu
     
     # x[warunek] - wybiera tylko te wartości z wektora x, które spełniają warunek
