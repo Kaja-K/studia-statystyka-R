@@ -85,8 +85,6 @@ fakt <- read.table("dane/fakturyTel.dat")
   
   # Wygeneruj wykres
   ggplot(fakt, aes(x = kategoria_opiekuna)) +
-    geom_bar(stat = "count") +
-    labs(title = "Liczba klientów w kategoriach opiekunów", x = "Kategoria opiekuna", y = "Liczba klientów") +
-    annotate("text", x = 1.5, y = max(table(fakt$kategoria_opiekuna)) - 5,
-             label = paste("p-value =", format.pval(t_test_result$p.value, digits = 3)))  
+    geom_bar() +
+    labs(title = "Liczba klientów w kategoriach opiekunów", x = "Kategoria opiekuna", y = "Liczba klientów") 
   

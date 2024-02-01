@@ -9,16 +9,16 @@ library(ggplot2)
 sopakobiety <- read.csv("dane/sopakobiety.csv", sep = " ", header = TRUE)
 
 # a) uwzględniając niektóre ze zmiennych: ep4, ep13, eduk4 2009
+
   # H0: brak różnic między wartościami zmiennych w roku 2009
   # H1: różnice między wartościami zmiennych w roku 2009
   chisq.test(table(sopakobiety$ep4, sopakobiety$ep13, sopakobiety$eduk4))
   # Decyzja: nie ammy podstaw do odrzucenia hipotez ponieważ p-wartość > 0.01
 
 # b) uwzględniając niektóre ze zmiennych: ep121, ep103, dochod2009.
+  
   # H0: Brak istotnych różnic między wartościami zmiennych ep121, ep103, dochod2009.
   # H1: Istnieją istotne różnice między wartościami zmiennych ep121, ep103, dochod2009
-
-
   t.test(sopakobiety$ep121, sopakobiety$ep103, conf.level = 0.99)
   t.test(sopakobiety$ep121, sopakobiety$dochod2009, conf.level = 0.99)
   t.test(sopakobiety$dochod2009, sopakobiety$ep103, conf.level = 0.99)
