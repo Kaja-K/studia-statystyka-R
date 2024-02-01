@@ -2,7 +2,10 @@
 
 data <- read.csv("Zadania/Dane/bankFull.csv", header=TRUE, sep=";", dec = ",")
 
-table(data$balance)
-t.test(data$balance, conf.level = 0.95)
-
-# przedział ufności od 1334.205 do 1390.339 dla średniej pokrywa 95% obserwacji
+  #H0: Średnia wartość zmiennej "balance" w populacji wynosi 0.
+  #H1: Średnia wartość zmiennej "balance" w populacji jest różna od 0.
+  
+    t.test(data$balance, conf.level = 0.95)
+    #Decyzja: Odrzucamy hipotezę zerową na rzecz hipotezy alternatywnej, ponieważ p-wartość < 0.05
+  
+# nie możemy wybrać testu binconf bo z tabeli nie da się odczytać proporcji z dwóch przedziałów

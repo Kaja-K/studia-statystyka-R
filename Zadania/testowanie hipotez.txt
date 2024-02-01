@@ -1,0 +1,35 @@
+    Test t dla średniej:
+        Sytuacja: Porównywanie średnich dwóch grup (test dwustronny).
+        Kryteria wyboru: Zastosowany do porównań średnich wartości, gdy mamy dwie grupy i badamy, czy istnieje różnica między ich średnimi. Test t dla dwóch niezależnych próbek używany jest w przypadku dwóch niezależnych grup.
+
+    Test t dla równości średnich dla dwóch grup:
+        Sytuacja: Porównywanie średnich dwóch grup (test dwustronny).
+        Kryteria wyboru: Podobnie jak w poprzednim przypadku, test t dla dwóch niezależnych próbek jest stosowany do porównań średnich wartości dla dwóch grup.
+
+    Test t dla jednej grupy:
+        Sytuacja: Porównywanie średniej jednej grupy z wartością referencyjną.
+        Kryteria wyboru: Test t dla jednej grupy jest używany, gdy porównujemy średnią jednej grupy z pewną wartością referencyjną.
+
+    Test t dla równości wariancji dla dwóch grup:
+        Sytuacja: Sprawdzenie równości wariancji dwóch grup.
+        Kryteria wyboru: Test F dla równości wariancji jest odpowiedni, gdy chcemy sprawdzić, czy wariancje dwóch grup są statystycznie różne.
+
+    Binominalny przedział ufności dla proporcji sukcesów:
+        Sytuacja: Ocena przedziału ufności dla proporcji sukcesów w próbie binominalnej.
+        Kryteria wyboru: W przypadku oceny przedziału ufności dla proporcji sukcesów w próbie binominalnej, używany jest binom.test.
+
+    Test proporcji:
+        Sytuacja: Porównywanie proporcji między dwiema grupami.
+        Kryteria wyboru: Test proporcji jest stosowany, gdy porównujemy proporcje między dwiema grupami.
+
+    Test chi-kwadrat:
+        Sytuacja: Badanie zależności między dwiema zmiennymi kategorycznymi.
+        Kryteria wyboru: Test chi-kwadrat jest używany, gdy chcemy sprawdzić, czy istnieje zależność między dwiema zmiennymi kategorycznymi.
+
+    Testy normalności (Shapiro-Wilk, Anderson-Darling, Cramer-von Mises, Lilliefors, Pearson, SF):
+        Sytuacja: Sprawdzenie, czy zmienna ma rozkład normalny.
+        Kryteria wyboru: W zależności od preferencji lub wymagań analizy można wybrać różne testy normalności. Shapiro-Wilk jest często używany i powszechnie stosowany.
+
+    Test Wilcoxona:
+        Sytuacja: Porównywanie median między dwiema grupami lub testowanie różnicy między medianą a wartością referencyjną.
+        Kryteria wyboru: Test Wilcoxona jest stosowany, gdy dane nie spełniają założeń normalności, a chcemy porównać mediany.

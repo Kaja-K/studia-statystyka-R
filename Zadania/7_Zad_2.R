@@ -3,13 +3,13 @@
 library(Hmisc)
   
 bankFull <-read.csv("Zadania/Dane/bankFull.csv", header=TRUE, sep=";", dec = ",")
-table(bankFull$default)
-binconf(x = 815, n = 44396 + 815, alpha = 0.05, method = "all") # 3 metodami 
 
-#środek przedziału ufności wynosi około 0.018. Oznacza to, że estymowana 
-#proporcja regulowania należności w całym zbiorze danych wynosi około 1,8%
+#H0: Proporcja klientów, którzy mają zaznaczoną opcję "default" (tak), wynosi 0.5 (50%).
+#H1: Proporcja klientów, którzy mają zaznaczoną opcję "default" (tak), jest różna od 0.5.
 
-#na podstawie przedziału ufności na poziomie ufności 95% można stwierdzić, 
-#że prawdziwa proporcja regulowania należności w populacji mieszczącej się 
-#w tym przedziale wynosi od około 1.68% do 1.93%. Estymator punktowy wskazuje 
-#wartość środkową tego przedziału.
+  #musimy sprawdzić ile wartości wpisać w test
+  table(bankFull$default)
+  
+  binconf(815,44396 + 815, alpha = 0.05, method = "all") # 3 metodami statystycznymi
+  #Decyzja: Odrzucamy hipotezę zerową na rzecz hipotezy alternatywnej, ponieważ 
+  # przedział ufności dla proporcji zawiera wartości różne od 0.5
